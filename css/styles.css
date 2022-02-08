@@ -1,0 +1,14 @@
+body {
+  background-color: lightBlue;
+}
+.Titles{
+  text-align:center;
+}
+.form{
+  border:1px solid #ccc;
+  display: flex;
+}
+.pp{
+  text-align: center;
+  color: Gray;
+  font-size: 1.5rem}
